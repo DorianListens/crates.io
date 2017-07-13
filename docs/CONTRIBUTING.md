@@ -339,7 +339,7 @@ without a restart needed, and you can leave the frontend running while you
 restart the server):
 
 ```
-yarn run start:local
+npm run start:local
 ```
 
 And then you should be able to visit http://localhost:4200!
